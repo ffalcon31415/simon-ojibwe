@@ -11,6 +11,9 @@ body {
   font-family: 'Rubik', sans-serif;
 }
 
+.start-button {
+  font-size: x-large;
+}
 .wrap {
   overflow: hidden;
   margin: 10px;
