@@ -4,7 +4,7 @@ let round = 0;
 
 const maxround = 7
 const allTiles = ['baa', 'bii', 'boo', 'be',  'chaa', 'chii', 'choo', 'che', 'ba', 'bi', 'bo','cha', 'chi', 'cho', 'daa', 'dii', 'doo', 'de', 'da', 'di', 'do', 'gaa', 'gii', 'goo', 'ge', 'ga', 'gi', 'go', 'jaa', 'jii', 'joo', 'je', 'ja', 'ji', 'jo', 'kaa', 'kii', 'koo', 'ke', 'ka', 'ki', 'ko', 'naa', 'nii', 'noo', 'ne', 'na', 'ni', 'no', 'paa', 'pii', 'poo', 'pe', 'pa', 'pi', 'po', 'saa', 'sii', 'soo', 'se', 'sa', 'si', 'so', 'shaa', 'shii', 'shoo', 'she', 'sha', 'shi', 'sho', 'taa', 'tii', 'too', 'te', 'ta', 'ti', 'to', 'waa', 'wii', 'woo', 'we', 'wa', 'wi', 'wo', 'zaa', 'zii', 'zoo', 'ze', 'za', 'zi', 'zo', 'zhaa', 'zhii', 'zhoo', 'zhe', 'zha', 'zhi', 'zho'];
-const numTilesInGame = 12;
+const numTilesInGame = 8;
 
 let allTilesInGame = [];
 
